@@ -2,7 +2,7 @@
 title: MEGA! Script Swordash
 published: 2024-04-01
 description: "How to use this blog template."
-image: "./cover.jpeg"
+image: "./img-sowrdash.jpg"
 tags: ["Script", "Blogging", "Customization"]
 category: Guides
 draft: false
