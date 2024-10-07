@@ -13,6 +13,14 @@ draft: false
 ## About This Game
 Humans will never forget that day - when a grotesque substance appeared in the sky suddenly, followed by a collective mutation of mankind with no warning. Within an instant, zombies had engulfed every corner of the world! Survivors formed various resistance groups to combat the zombies. In the spur of the moment, a mysterious girl in sailor uniform reappeared. What secrets lie behind her? What caused this sudden mutation? No time for questions, join the battle for the world!
 
+| Required     | Description                                                                                                                                                                                                 |
+|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `Version`       | 2.1.4                                                                                                                                                                                      |
+| `Root needed`   | Yes                                                                                                                                                                           |
+| ` Internet required` | Yes                                                                                                                                                   |
+| `Size`       | 186 MB |
+| `Android support`        | Android 6+                                                                                                                                                                                       |
+|
 
 ## Front-matter of Posts
 
@@ -28,14 +36,7 @@ draft: false
 ---
 ```
 
-| Required     | Description                                                                                                                                                                                                 |
-|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `Version`       | 2.1.4                                                                                                                                                                                      |
-| `Root needed`   | Yes                                                                                                                                                                           |
-| ` Internet required` | Yes                                                                                                                                                   |
-| `Size`       | 186 MB |
-| `Android support`        | Android 6+                                                                                                                                                                                       |
-|
+
 
 
 ## Where to Place the Post Files
