@@ -31,11 +31,11 @@ draft: false
 
 | Attribute     | Description                                                                                                                                                                                                 |
 |---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `Root`       | Yes                                                                                                                                                                                      |
-| `Android`   | 5+                                                                                                                                                                            |
-| `description` | A short description of the post. Displayed on index page.                                                                                                                                                   |
-| `image`       | The cover image path of the post.<br/>1. Start with `http://` or `https://`: Use web image<br/>2. Start with `/`: For image in `public` dir<br/>3. With none of the prefixes: Relative to the markdown file |
-| `tags`        | The tags of the post.                                                                                                                                                                                       |
+| `Version`       | 2.1.4                                                                                                                                                                                      |
+| `Root needed`   | Yes                                                                                                                                                                           |
+| ` Internet required` | Yes                                                                                                                                                   |
+| `Size`       | 186 MB |
+| `Android support`        | Android 6+                                                                                                                                                                                       |
 | `category`    | The category of the post.                                                                                                                                                                                   |
 | `draft`        | If this post is still a draft, which won't be displayed.                                                                                                                                                    |
 
