@@ -29,15 +29,14 @@ draft: false
 ---
 ```
 
-| Attribute     | Description                                                                                                                                                                                                 |
+| Required     | Description                                                                                                                                                                                                 |
 |---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `Version`       | 2.1.4                                                                                                                                                                                      |
 | `Root needed`   | Yes                                                                                                                                                                           |
 | ` Internet required` | Yes                                                                                                                                                   |
 | `Size`       | 186 MB |
 | `Android support`        | Android 6+                                                                                                                                                                                       |
-| `category`    | The category of the post.                                                                                                                                                                                   |
-| `draft`        | If this post is still a draft, which won't be displayed.                                                                                                                                                    |
+
 
 ## Where to Place the Post Files
 
