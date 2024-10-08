@@ -23,6 +23,7 @@ Humans will never forget that day - when a grotesque substance appeared in the s
 |
 :::note[Features]
 - God Mode
+- No Cooldown <font color=red> Risk </font>
 :::
 
 ## Front-matter of Posts
