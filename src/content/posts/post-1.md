@@ -20,12 +20,12 @@ Humans will never forget that day - when a grotesque substance appeared in the s
 | ` Internet required` | Yes                                                                                                                                                   |
 | `Size`       | 186 MB |
 | `Android support`        | Android 6+ |
-| `Game Guardian` | Yes | 
+| `Type Hack` | Script Game Guardian | 
 |
  
 :::note[Features]
 - God Mode
-- No Cooldown [<b><font color=red>Risk</font></b>
+- No Cooldown [<b><font color=red>Risk</font></b>]
 :::
 
 ## Front-matter of Posts
