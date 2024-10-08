@@ -19,14 +19,13 @@ Humans will never forget that day - when a grotesque substance appeared in the s
 | `Root needed`   | Yes                                                                                                                                                                           |
 | ` Internet required` | Yes                                                                                                                                                   |
 | `Size`       | 186 MB |
-| `Android support`        | Android 6+                                                                                                                                                                                       |
-|
-| `Game Guardian` | [Download](https://gameguardian.net/forum/files/file/2-gameguardian/) |
+| `Android support`        | Android 6+ |
+| `Game Guardian` | Yes | 
 |
  
 :::note[Features]
 - God Mode
-- No Cooldown <font color=red> Risk </font>
+- No Cooldown [<b><font color=red>Risk</font></b>
 :::
 
 ## Front-matter of Posts
