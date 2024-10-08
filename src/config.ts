@@ -64,8 +64,8 @@ export const profileConfig: ProfileConfig = {
       url: 'https://instagram.com/argazyu',
     },
     {
-      name: 'TikTokb',
-      icon: 'fa6-brandstiktok',
+      name: 'TikTok',
+      icon: 'fa6-brands:tiktok',
       url: 'https://tiktok.com/eunonia.txt',
     },
   ],
