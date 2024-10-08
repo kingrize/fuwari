@@ -60,13 +60,13 @@ export const profileConfig: ProfileConfig = {
     },
     {
       name: 'Instagram',
-      icon: 'fa6-brands:steam',
+      icon: 'fa6-brands:instagram',
       url: 'https://instagram.com/argazyu',
     },
     {
-      name: 'GitHub',
-      icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      name: 'TikTokb',
+      icon: 'fa6-brandstiktok',
+      url: 'https://tiktok.com/eunonia.txt',
     },
   ],
 }
