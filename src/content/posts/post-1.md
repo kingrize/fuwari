@@ -21,8 +21,8 @@ Humans will never forget that day - when a grotesque substance appeared in the s
 | `Size`       | 186 MB |
 | `Android support`        | Android 6+                                                                                                                                                                                       |
 |
-:::warning
-i don't know about this anti-cheat! use at your own risk  :D
+:::note[Features]
+- God Mode
 :::
 
 ## Front-matter of Posts
