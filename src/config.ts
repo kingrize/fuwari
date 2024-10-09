@@ -66,7 +66,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'TikTok',
       icon: 'fa6-brands:tiktok',
-      url: 'https://tiktok.com/eunonia.txt',
+      url: 'https://www.tiktok.com/@eunoia.txt',
     },
   ],
 }
