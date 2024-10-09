@@ -17,7 +17,7 @@ Humans will never forget that day - when a grotesque substance appeared in the s
 |---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `Version`       | 2.1.4                                                                                                                                                                                      |
 | `Root needed`   | Yes                                                                                                                                                                           |
-| ` Internet required` | Yes                                                                                                                                                   |
+| ` Internet required` | <a href="https://www.semrush.com/">Semrush</a>                                                                                                                                                   |
 | `Size`       | 186 MB |
 | `Android support`        | Android 6+ |
 | `Type Hack` | Script Game Guardian | 
