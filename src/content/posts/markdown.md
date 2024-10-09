@@ -57,7 +57,7 @@ define foobar() {
 (which makes copying & pasting easier). You can optionally mark the
 delimited block for Pandoc to syntax highlight it:
 
-```python
+```lua
 import time
 # Quick, count to ten!
 for i in range(10):
