@@ -13,10 +13,10 @@ draft: false
 ## Game Description
 Humans will never forget that day - when a grotesque substance appeared in the sky suddenly, followed by a collective mutation of mankind with no warning. Within an instant, zombies had engulfed every corner of the world! Survivors formed various resistance groups to combat the zombies. In the spur of the moment, a mysterious girl in sailor uniform reappeared. What secrets lie behind her? What caused this sudden mutation? No time for questions, join the battle for the world!
 ##  Features
-> - God Mode
+```God Mode
 > - No Cooldown [<b><font color=red>Risk</font></b>]
 > - Accurate dogde [<b><font color=red>Risk</font></b>]
-
+```
 
 | Information     | Description                                                                                                                                                                                                 |
 |---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -29,7 +29,7 @@ Humans will never forget that day - when a grotesque substance appeared in the s
 |
 
 ## Download
-|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 | Mediafire | <a href="https://www.semrush.com/">Download</a><br/> |
 TEST
 
