@@ -23,9 +23,14 @@ Humans will never forget that day - when a grotesque substance appeared in the s
 | `Type Hack` | Script Game Guardian | 
 |
 
-##  Features & Download Section
-:::note[Features]
-:::
+##  Features
 > - God Mode
 > - No Cooldown [<b><font color=red>Risk</font></b>]
+> - Accurate dogde [<b><font color=red>Risk</font></b>]
+
+## Download
+Mediafire :
+Google Drive :
+Game Guardian :
+
 
