@@ -22,8 +22,10 @@ Humans will never forget that day - when a grotesque substance appeared in the s
 | `Android support`        | Android 6+ |
 | `Type Hack` | Script Game Guardian | 
 |
- 
+
+##  Features & Download Section
 :::note[Features]
-- God Mode
-- No Cooldown [<b><font color=red>Risk</font></b>]
 :::
+> - God Mode
+> - No Cooldown [<b><font color=red>Risk</font></b>]
+
