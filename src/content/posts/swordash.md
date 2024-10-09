@@ -30,14 +30,7 @@ Humans will never forget that day - when a grotesque substance appeared in the s
 |
 
 ## Download
-| Required     | Description                                                                                                                                                                                                 |
-|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Mediafire       | <a href="https://www.semrush.com/">Download</a>                                                                                                                                                                                      |
-| `Root needed`   | Yes                                                                                                                                                                           |
-| ` Internet required` | Yes                                                                                                                                                   |
-| `Size`       | 186 MB |
-| `Android support`        | Android 6+ |
-| `Type Hack` | Script Game Guardian | 
-|
+<a href="https://www.semrush.com/">Download</a><br/>
+TEST
 
 
